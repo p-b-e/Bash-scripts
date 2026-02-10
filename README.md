@@ -18,3 +18,6 @@ This repo is a **hands-on lab** where I explore shell scripting concepts ranging
 This repository is **not a polished framework** — it’s a learning and testing ground by design.
 
 ---
+## 📜 License
+
+This project is licensed under the MIT License.
